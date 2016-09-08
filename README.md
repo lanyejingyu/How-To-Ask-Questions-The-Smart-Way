@@ -1,4 +1,4 @@
-# 提問的智慧  ------test--haha
+# 提問的智慧
 
 **How To Ask Questions The Smart Way**
 
